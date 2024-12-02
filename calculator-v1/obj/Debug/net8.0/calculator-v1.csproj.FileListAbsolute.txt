@@ -1,0 +1,14 @@
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.GeneratedMSBuildEditorConfig.editorconfig
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.AssemblyInfoInputs.cache
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.AssemblyInfo.cs
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.csproj.CoreCompileInputs.cache
+E:\pet-project\calculator-v1\bin\Debug\net8.0\calculator-v1.exe
+E:\pet-project\calculator-v1\bin\Debug\net8.0\calculator-v1.deps.json
+E:\pet-project\calculator-v1\bin\Debug\net8.0\calculator-v1.runtimeconfig.json
+E:\pet-project\calculator-v1\bin\Debug\net8.0\calculator-v1.dll
+E:\pet-project\calculator-v1\bin\Debug\net8.0\calculator-v1.pdb
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.dll
+E:\pet-project\calculator-v1\obj\Debug\net8.0\refint\calculator-v1.dll
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.pdb
+E:\pet-project\calculator-v1\obj\Debug\net8.0\calculator-v1.genruntimeconfig.cache
+E:\pet-project\calculator-v1\obj\Debug\net8.0\ref\calculator-v1.dll
